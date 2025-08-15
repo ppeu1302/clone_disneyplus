@@ -1,0 +1,27 @@
+{
+  "name": "clone_disneyplus",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "gulp watch",
+    "build": "gulp",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ppeu1302/clone_disneyplus.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ppeu1302/clone_disneyplus/issues"
+  },
+  "homepage": "https://github.com/ppeu1302/clone_disneyplus#readme",
+  "description": "",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-imagemin": "^7.1.0",
+    "gulp-sass": "^6.0.1",
+    "sass": "^1.89.0"
+  }
+}
